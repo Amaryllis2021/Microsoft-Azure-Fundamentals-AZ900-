@@ -1,11 +1,11 @@
 # Microsoft-Azure-Fundamentals-AZ900-
 This course will provide foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
 
-You will Learn After completing this course, students will be able to:  
+You will Learn After completing this course, students will be able to learn:  
 
 - The basics of cloud computing and Azure, and how to get started with Azure's subscriptions and accounts. 
 
-. The advantages of using cloud computing services, learning to differentiate between the categories and types of cloud computing, and how to examine the various concepts, resources, and terminology that are necessary to work with Azure architecture. 
+- The advantages of using cloud computing services, learning to differentiate between the categories and types of cloud computing, and how to examine the various concepts, resources, and terminology that are necessary to work with Azure architecture. 
 
 - The core services available with Microsoft Azure. The core solutions that encompass a wide array of tools and services from Microsoft Azure. 
 
